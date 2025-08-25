@@ -1,3 +1,5 @@
+"use client"
+
 import { ThemeProvider, createTheme } from "@mui/material/styles"
 import { CssBaseline, AppBar, Toolbar, Typography, Container, Box } from "@mui/material"
 import GlobalSearchBar from "../components/GlobalSearchBar"
